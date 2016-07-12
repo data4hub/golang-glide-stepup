@@ -1,2 +1,2 @@
 # golang-glide-stepup
-Golang, glide and stepup (latest version)
+Golang 1.6.2, glide latest version and stepup latest version
