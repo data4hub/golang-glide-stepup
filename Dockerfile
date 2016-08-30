@@ -1,6 +1,5 @@
-FROM golang:1.6.2
+FROM rest4hub/golang-glide
 
-RUN curl -s https://glide.sh/get | sh
 RUN curl -sSL https://rvm.io/mpapis.asc | gpg --import -
 RUN curl -sSL https://get.rvm.io | bash -s stable --ruby
 RUN bash -c 'echo "source /usr/local/rvm/scripts/rvm" >> $HOME/.bashrc'
