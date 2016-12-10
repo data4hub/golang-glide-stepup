@@ -1,4 +1,4 @@
-TAG := rest4hub/golang-glide-stepup
+TAG := rest4hub/golang-glide:stepup
 
 build:
 	docker pull rest4hub/golang-glide; \
