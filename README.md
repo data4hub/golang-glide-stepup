@@ -1,3 +1,5 @@
+# Deprecated(https://github.com/rest4hub/golang-glide/tree/stepup)
+
 # golang-glide-stepup
 ### Golang
 go env
